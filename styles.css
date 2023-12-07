@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+}
+
+#cookie {
+  width: 200px;
+  height: 200px;
+  background: url(https://i.pinimg.com/1200x/72/78/0c/72780ca70ff4bf1154b89061d3a99569.jpg);
+  background-size: cover;
+  display: inline-block;
+  cursor: pointer;
+}
+
+button {
+  margin-top: 20px;
+}
